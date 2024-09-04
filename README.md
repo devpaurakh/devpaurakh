@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://media.tenor.com/mH_Sq3JI3jkAAAAi/helloworld-programming.gif)
 
 <h1 align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+Visitor!;I'm+Paurakh+Saud" alt="Typing SVG" /></h1>
