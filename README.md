@@ -1,4 +1,9 @@
-![MasterHead](https://media.tenor.com/mH_Sq3JI3jkAAAAi/helloworld-programming.gif)
+
+
+ <div align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/aa2a9132830679.569563b12b513.gif"></image>
+ </div>
+
 
 <h1 align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+Visitor!;I'm+Paurakh+Saud" alt="Typing SVG" /></h1>
