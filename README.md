@@ -10,7 +10,7 @@
 <h3 align="center">Mobile Application Developer and AI Anthusiast</h3>
 <div align="center">
   
-👨‍💻 All of my projects are available at [paurakhsaud.com.np](paurakhsaud.com.np)
+👨‍💻 My Webiste:  [paurakhsaud.com.np](paurakhsaud.com.np)
   
 🌱 I’m currently learning **Flutter Bloc ,MERN Stack and ML**
 
