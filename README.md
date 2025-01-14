@@ -44,5 +44,5 @@
 </div>
  <hr/>
 <div align="center" >
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devpaurakh" alt="devpaurakh" />
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devpaurakh&" alt="devpaurakh" /></p>
 </div>
