@@ -7,12 +7,12 @@
 
 <h1 align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+Fellow+Developers!;I'm+Paurakh+Saud" alt="Typing SVG" /></h1>
-<h3 align="center">Mobile Application Developer and AI Anthusiast</h3>
+<h3 align="center">Mobile Application Developer</h3>
 <div align="center">
   
 👨‍💻 My Webiste:  [www.paurakhsaud.com.np](https://paurakhsaud.com.np/)
   
-🌱 I’m currently learning **Flutter Bloc ,MERN Stack and ML**
+🌱 I’m currently learning **Flutter, Rust**
 
 📫 How to reach me **paurakhsaud2019@gmail.com**
 
@@ -40,7 +40,7 @@
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,github,flutter,dart,git,swift,nodejs,express" />
-    <img src="https://skillicons.dev/icons?i=python,firebase,mongodb,java,mysql," /><br>
+    <img src="https://skillicons.dev/icons?i=python,firebase,rust"/><br>
 </div>
  <hr/>
 <div align="center" >
